@@ -1,0 +1,114 @@
+[
+    {
+        "text": "time and distance",
+        "subject": "quant",
+        "topic": "quant",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "text": "top 10 movies",
+        "subject": "DI",
+        "topic": "DI",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "text": "solve puzzle",
+        "subject": "reasoning",
+        "topic": "reasoning",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "text": "find average of numbers",
+        "subject": "quant",
+        "topic": "quant",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "text": "sentence correction",
+        "subject": "english",
+        "topic": "english",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "text": "parajumble in english",
+        "subject": "english",
+        "topic": "english",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "text": "english paragaraph",
+        "subject": "english",
+        "topic": "english",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "text": "find area of circle",
+        "subject": "quant",
+        "topic": "quant",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "text": "categorize the population",
+        "subject": "DI",
+        "topic": "DI",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "text": "puzzle problem2",
+        "subject": "reasoning",
+        "topic": "reasoning",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "text": "top 20 companies",
+        "subject": "DI",
+        "topic": "DI",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "text": "fill in the blanks",
+        "subject": "english",
+        "topic": "english",
+        "difficulty": "medium",
+        "marks": 10
+    },
+    {
+        "text": "write an essay",
+        "subject": "english",
+        "topic": "english",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "text": "average no of movies",
+        "subject": "DI",
+        "topic": "DI",
+        "difficulty": "hard",
+        "marks": 15
+    },
+    {
+        "text": "time speed and distance",
+        "subject": "quant",
+        "topic": "quant",
+        "difficulty": "easy",
+        "marks": 5
+    },
+    {
+        "text": "permutation and combination",
+        "subject": "quant",
+        "topic": "quant",
+        "difficulty": "medium",
+        "marks": 10
+    }
+]
